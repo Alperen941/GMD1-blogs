@@ -1,4 +1,4 @@
-# Punch — Final Blog Post & Project Conclusion
+# Punch - Final Blog Post & Project Conclusion
 
 ## What is Punch?
 
