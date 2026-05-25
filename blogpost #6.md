@@ -33,6 +33,7 @@ To help you survive, Teddybears occasionally appear on the ground. Picking one u
 | Action | Control |
 |---|---|
 | Move | WASD |
+| Aim | Mouse |
 | Throw stone | Left Mouse Button |
 | Pause | Escape |
 
